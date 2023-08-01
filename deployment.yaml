@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: jackson123488/packages:5
+      - image: jackson123488/packages:1
         name: myapp
         resources: {}
 status: {}
